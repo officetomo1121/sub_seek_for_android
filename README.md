@@ -13,4 +13,5 @@
 
 【その他公開先】
 Google Playでも公式アプリとして公開中
+<br>
 https://play.google.com/store/apps/details?id=com.subseek.myapp
