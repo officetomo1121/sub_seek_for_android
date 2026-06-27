@@ -10,3 +10,7 @@
 ・補助金検索機能<br>
 ・補助金詳細表示機能<br>
 ・スマートフォン向けUI対応<br>
+
+【その他公開先】
+Google Playでも公式アプリとして公開中
+https://play.google.com/store/apps/details?id=com.subseek.myapp
